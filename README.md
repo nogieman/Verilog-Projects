@@ -1,5 +1,5 @@
 # Verilog-Projects
-# Semester 6 Code Repository
+# Semester 6 Digital System Design Code Repository
 
 Welcome to my Semester 6 Code Repository! Here you'll find a collection of codes written during this semester, including assignments, lab work, and personal projects driven by my curiosity.
 
